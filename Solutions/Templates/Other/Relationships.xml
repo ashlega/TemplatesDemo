@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_ita_documenttemplate" />
+  <EntityRelationship Name="business_unit_ita_templatedemodata" />
+  <EntityRelationship Name="business_unit_ita_templatedownload" />
+  <EntityRelationship Name="FileAttachment_ita_DocumentTemplate_ita_File" />
+  <EntityRelationship Name="lk_ita_documenttemplate_createdby" />
+  <EntityRelationship Name="lk_ita_documenttemplate_modifiedby" />
+  <EntityRelationship Name="lk_ita_templatedemodata_createdby" />
+  <EntityRelationship Name="lk_ita_templatedemodata_modifiedby" />
+  <EntityRelationship Name="lk_ita_templatedownload_createdby" />
+  <EntityRelationship Name="lk_ita_templatedownload_modifiedby" />
+  <EntityRelationship Name="owner_ita_documenttemplate" />
+  <EntityRelationship Name="owner_ita_templatedemodata" />
+  <EntityRelationship Name="owner_ita_templatedownload" />
+  <EntityRelationship Name="team_ita_documenttemplate" />
+  <EntityRelationship Name="team_ita_templatedemodata" />
+  <EntityRelationship Name="team_ita_templatedownload" />
+  <EntityRelationship Name="user_ita_documenttemplate" />
+  <EntityRelationship Name="user_ita_templatedemodata" />
+  <EntityRelationship Name="user_ita_templatedownload" />
+</EntityRelationships>

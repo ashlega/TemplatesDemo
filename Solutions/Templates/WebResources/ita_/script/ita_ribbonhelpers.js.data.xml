@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebResourceId>{2c917322-e7be-ee11-9078-002248b3137d}</WebResourceId>
+  <Name>ita_/script/ita_ribbonhelpers.js</Name>
+  <LanguageCode>0</LanguageCode>
+  <WebResourceType>3</WebResourceType>
+  <IntroducedVersion>1.0.0.9</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"&gt;&lt;Library name="ita_/script/resx/messages.1036.resx" displayName="ita_/script/resx/messages.1036.resx" languagecode="1036" description="" libraryUniqueId="{9c1ae283-8e77-e042-62bc-c87368e1649a}"/&gt;&lt;Library name="ita_/script/resx/messages.1033.resx" displayName="ita_/script/resx/messages.1033.resx" languagecode="1033" description="" libraryUniqueId="{436a2250-30e8-b656-a4cb-4c83a9329721}"/&gt;&lt;/Dependency&gt;&lt;/Dependencies&gt;</DependencyXml>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/ita_scriptita_ribbonhelpersjs2C917322-E7BE-EE11-9078-002248B3137D</FileName>
+</WebResource>

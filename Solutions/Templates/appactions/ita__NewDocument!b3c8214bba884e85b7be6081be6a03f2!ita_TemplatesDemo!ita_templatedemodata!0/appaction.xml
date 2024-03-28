@@ -1,0 +1,31 @@
+<appaction uniquename="ita__NewDocument!b3c8214bba884e85b7be6081be6a03f2!ita_TemplatesDemo!ita_templatedemodata!0">
+  <appmoduleid>
+    <uniquename>ita_TemplatesDemo</uniquename>
+  </appmoduleid>
+  <buttonlabeltext default="New Document">
+    <label description="New Document" languagecode="1033" />
+  </buttonlabeltext>
+  <context>1</context>
+  <contextentity>
+    <logicalname>ita_templatedemodata</logicalname>
+  </contextentity>
+  <contextvalue>ita_templatedemodata</contextvalue>
+  <hidden>0</hidden>
+  <iscustomizable>1</iscustomizable>
+  <isdisabled>0</isdisabled>
+  <isgrouptitlehidden>0</isgrouptitlehidden>
+  <location>0</location>
+  <name>NewDocument!b3c8214bba884e85b7be6081be6a03f2</name>
+  <onclickeventjavascriptfunctionname>ita_ribbonhelpers.openTemplateDialog</onclickeventjavascriptfunctionname>
+  <onclickeventjavascriptparameters>[{"type":5}]</onclickeventjavascriptparameters>
+  <onclickeventjavascriptwebresourceid>
+    <webresourceid>2c917322-e7be-ee11-9078-002248b3137d</webresourceid>
+  </onclickeventjavascriptwebresourceid>
+  <onclickeventtype>2</onclickeventtype>
+  <origin>0</origin>
+  <sequence>100100015.0000000000</sequence>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>0</type>
+  <visibilitytype>0</visibilitytype>
+</appaction>

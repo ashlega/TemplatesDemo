@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebResourceId>{efb7ec55-34c0-ee11-9079-000d3ae86cd0}</WebResourceId>
+  <Name>ita_/script/resx/messages.1036.resx</Name>
+  <DisplayName>ita_/script/resx/messages.1036.resx</DisplayName>
+  <LanguageCode>0</LanguageCode>
+  <WebResourceType>12</WebResourceType>
+  <IntroducedVersion>1.0.0.11</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/ita_scriptresxmessages1036resxEFB7EC55-34C0-EE11-9079-000D3AE86CD0</FileName>
+</WebResource>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ita_templateselector_0da6a</Name>
+  <AppVersion>2024-03-28T20:06:29Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.24024.5.0</CreatedByClientVersion>
+  <MinClientVersion>3.24024.5.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"500","primaryDeviceHeight":"150","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24024.5","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240328T141910Z-3.24024.5.0","offlineLargeFilesSupport":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>Template Selector</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"498647b4-e6b2-40ac-b471-6dd9d4e7ddb9":{"id":"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps","displayName":"Microsoft Dataverse","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1679/1.0.1679.3643/commondataserviceforapps/icon.png","dataSources":[],"dependencies":[],"dependents":["52e2ddb8-45d0-4da4-b064-d80aecdbda8a"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Premium"},"52e2ddb8-45d0-4da4-b064-d80aecdbda8a":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1680/1.0.1680.3652/logicflows/icon.png","dataSources":["Templates:PrepareTemplateDataShort"],"dependencies":["498647b4-e6b2-40ac-b471-6dd9d4e7ddb9"],"dependents":[],"parameterHints":{"workflowName":{"value":"ba1433cc-a997-40bc-9d35-102e413967cf"},"workflowEntityId":{"value":"c88f8d2e-0bed-ee11-a1fd-000d3a847187"},"workflowDisplayName":{"value":"Templates: Prepare Template Data Short"},"498647b4-e6b2-40ac-b471-6dd9d4e7ddb9":{"value":"shared_commondataserviceforapps"}},"parameterHintsV2":{"workflowName":{"value":"ba1433cc-a997-40bc-9d35-102e413967cf"},"workflowEntityId":{"value":"c88f8d2e-0bed-ee11-a1fd-000d3a847187"},"workflowDisplayName":{"value":"Templates: Prepare Template Data Short"},"shared_commondataserviceforapps":{"value":"498647b4-e6b2-40ac-b471-6dd9d4e7ddb9"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+  <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified","environmentVariableName":""}},"dataSources":{"Document Templates":{"entitySetName":"ita_documenttemplates","logicalName":"ita_documenttemplate"}}}}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <CanvasAppType>2</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"dependencyid":"c88f8d2e-0bed-ee11-a1fd-000d3a847187","componenttype":29,"componenttypeplatformname":"Workflow"},{"logicalname":"ita_documenttemplate","componenttype":1}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/ita_templateselector_0da6a_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/ita_templateselector_0da6a_DocumentUri.msapp</DocumentUri>
+  <AdditionalUris>
+    <AdditionalUri>/CanvasApps/ita_templateselector_0da6a_AdditionalUris0_identity.json</AdditionalUri>
+  </AdditionalUris>
+</CanvasApp>

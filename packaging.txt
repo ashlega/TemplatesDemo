@@ -1,0 +1,13 @@
+Setting up pac in Visual Studio Code: https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction
+
+
+Seeting up pac auth profile:
+
+Use pac auth create --url https://<..>.dynamics.com/ to create an authorization profile
+
+To export and unpack solutions:
+
+del ./Solutions/* -r
+pac solution export --path ./Solutions --name Templates --managed
+pac solution export --path ./Solutions --name Templates 
+pac solution unpack --zipfile .\Solutions\Templates.zip --folder .\Solutions\Templates --packagetype Both
