@@ -65,8 +65,6 @@ var ita_ribbonhelpers = window.ita_ribbonhelpers || {};
                         function(result){
                             if(result.entities.length > 0)
                             {
-                                //"https://cprs-dev-hc-sc.crm3.dynamics.com/api/data/v9.0/ita_documenttemplates(4c96db72-71d5-ee11-904d-6045bd5f100b)/ita_file/$value"
-                            //"NOF-NOI Letter_" + ticketNumber + ".dotm"
                                 var url = result.entities[0].ita_fileurl;
                                 var fileName = result.entities[0].ita_filename;
                                 _self.getFile(url, fileName);
